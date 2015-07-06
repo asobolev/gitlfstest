@@ -1,2 +1,4 @@
 *.mp3 filter=lfs diff=lfs merge=lfs -crlf
 bigfile.dat filter=lfs diff=lfs merge=lfs -crlf
+bigfile1.dat filter=lfs diff=lfs merge=lfs -crlf
+bigfile2.dat filter=lfs diff=lfs merge=lfs -crlf
